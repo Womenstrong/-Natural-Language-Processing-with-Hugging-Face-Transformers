@@ -1,5 +1,5 @@
 # Natural Language Processing with Hugging Face Transformers
-## : cognitive class Al
+## Author : cognitive class Al
 
 Mentee assignmet from IBM Advance Al @ ifinite Learning
 Course complection of Natural Language Processing with Hugging Face Transformers from cognitiveClass.ai
